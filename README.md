@@ -65,3 +65,4 @@ Busy Areas
 
 5.Add Hide and Show Filter panel for safe spacing.
 And add many filters on report.
+<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/5f87695d-b021-4486-8799-f4c559cc4a43" />
